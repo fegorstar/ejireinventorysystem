@@ -10,7 +10,7 @@ The drug procurement and distribution tracking system for Ejire Health center is
 The application is a web based system. It consists of two (2) major users- the admin-who will be in charge of drugs procurement, distribution and record keeping, adding and managing other users etc and Users which could be the staffs of the hospital or pharmaceutical Sales Rep. The admin monitors the overall operation of the system.
 
 
-<img src="https://github.com/fegorstar/mobhil-web/blob/master/mobhil/static/img/homepage.PNG">
+<img src="https://github.com/fegorstar/ejireinventorysystem/blob/master/assets/img/dashboard.PNG">
 
 
 # Installation Instructions
