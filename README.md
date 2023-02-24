@@ -14,8 +14,8 @@ The application is a web based system. It consists of two (2) major users- the a
 
 
 # Installation Instructions
-1. Clone the repository `git clone https://github.com/fegorstar/mobhil-web.git`
-2. Install Xammp/Laragon or Wamp. Access the phpmyadmin GUI and upload the Database which is also inside the repository
+1. Clone the repository `git clone https://github.com/fegorstar/ejireinventorysystem.git`
+2. Install XAMMP/Laragon or WAMP. Access the phpmyadmin GUI and upload the Database which is also inside the repository
 3. Start your Server: Xammp/Laragon or Wamp and go to http://localhost/ejireinventorysystem   
 4. Check the admin login Details in the Users Table
 5. Explore all the various features of the application..
